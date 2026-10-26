@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /*?s=
+Disallow: /*&s=
+Disallow: /*?q=
+Disallow: /*&q=
+Disallow: /*?sort=
+Disallow: /*&sort=
+Disallow: /*?filter=
+Disallow: /*&filter=
+
+Sitemap: https://www.appliedkinesiologysacramento.com/sitemap.xml
